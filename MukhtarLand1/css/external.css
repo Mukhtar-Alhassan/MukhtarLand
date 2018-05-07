@@ -1,0 +1,123 @@
+.top{
+	background-color: lightgrey;
+	height: 150px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-weight: bolder;
+	border-radius: 15px;
+	border-color: black;
+	margin-top: 10px;
+	border-bottom: 1px solid black;
+	border-top: 1px solid black;
+	border: 2px black solid;
+	border-radius-color: 1px black solid; 
+
+
+}
+.firstline{
+	color: purple;
+}
+.box{
+	background-color: lightgrey;
+	height: 200px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	font-weight: bold;
+	border-radius: 15px;
+	border-color: 1px solid black;
+	margin-top:20px;
+	border-bottom: 2px;
+	border: 2px black solid;
+	border: 5px;
+	border-radius-color: 1px black solid; 
+
+}
+.second{
+	background-color: silver;
+	border-bottom: 5px, solid black;
+	padding-top: -30px;
+	height: 
+	border: 2px black solid;
+}
+.Third{
+	background-color: silver;
+	border-bottom: 1px black;
+	height: 30px;
+	width: 92%;
+	border-radius: 2px;
+	border: 5px
+	border-color: black;
+	padding-right: -200px;
+
+}
+.fourth{
+	height: 10px;
+}
+.mk{
+	background-color: white;
+	height: 100px;
+	width: 360px;
+	font-weight: lighter;
+	font-size: 15px;
+	text-align: center;
+	margin-right: -100px;
+	border-color: 1px solid black;
+}
+.mt{
+	background-color: white;
+	height: 100px;
+	width: 360px;
+	font-weight: lighter;
+	font-size: 15px;
+	text-align: center;
+	margin-right: -100px;
+	border-color: 1px solid black;
+	margin-bottom: -70px;
+
+}
+.mj{
+	font-size: 15px;
+	font-weight: lighter;
+	border-color: 1px solid black;
+}
+.vj{
+	width: 300px;
+}
+.gg{
+	text-align: center;
+	width: 360px;
+	border-color: grey;
+}
+.ll{
+	border-color: grey;
+	width: 100px;
+}
+.vt{
+	margin-top: 90px;
+	background-color: silver;
+	height: 25px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 7px;
+	padding-bottom: 20px;
+	padding-top: 10px;
+	text-align: center;
+	font-weight: lighter;
+	border-bottom: 1px solid black;
+	border-color: 1px solid black;
+	border: 1px solid black;
+
+}
+.yt{
+	background-color: lightgrey;
+	height:400px;
+	width: 100%;
+	margin-top: 20px;
+	border-radius: 5px;
+	border-color: 1px black;
+}
